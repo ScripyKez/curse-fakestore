@@ -1,6 +1,6 @@
 {
   "name": "redux-toolkit-crash-course",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
